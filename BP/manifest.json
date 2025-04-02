@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"jaymar921."
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.44"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			60
+		],
+		"uuid": "94e2d6e4-7b67-4043-afa5-97d1385b283a",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "c84da064-c016-45ce-827a-fab8b42c843f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "8a0c2c1b-c71b-4cb0-bfc1-bc92f073170d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

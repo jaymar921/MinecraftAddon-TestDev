@@ -1,0 +1,20 @@
+{
+	"format_version": "1.21.60",
+	"minecraft:client_biome": {
+		"description": {
+			"identifier": "testbiome"
+		},
+		"components": {
+			"minecraft:water_appearance": {
+				"surface_color": "#FFFFFF",
+				"surface_opacity": 0.5
+			},
+			"minecraft:fog_appearance": {
+				"fog_identifier": "minecraft:fog_hell"
+			},
+			"minecraft:grass_appearance": {
+				"color": "#FFFFFF"
+			}
+		}
+	}
+}

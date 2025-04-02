@@ -1,0 +1,11 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Minecraft-Addon-TestBlock",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"testing_xblock": {
+			"textures": "textures/blocks/collision_block"
+		}
+	}
+}

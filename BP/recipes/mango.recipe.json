@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "testing:mango.recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"D": {
+				"item": "minecraft:dirt"
+			},
+			"S": {
+				"item": "minecraft:wheat_seeds"
+			}
+		},
+		"pattern": [
+			"SDS"
+		],
+		"result": {
+			"item": "testing:mango",
+			"data": 1,
+			"count": 2
+		}
+	}
+}

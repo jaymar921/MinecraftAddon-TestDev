@@ -1,0 +1,22 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "testing:mango",
+			"menu_category": {
+				"category": "nature"
+			}
+		},
+		"components": {
+			"minecraft:icon": "testing_mango",
+			"minecraft:use_modifiers": {
+				"use_duration": 0.3
+			},
+			"minecraft:food": {
+				"nutrition": 4,
+				"saturation_modifier": 1
+			},
+			"minecraft:use_animation": "eat"
+		}
+	}
+}

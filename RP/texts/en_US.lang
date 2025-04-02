@@ -1,0 +1,4 @@
+pack.name=Minecraft-Addon-TestBlock RP
+pack.description=Development test
+tile.testing:xblock.name=XBlock
+item.testing:mango=Mango

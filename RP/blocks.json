@@ -1,0 +1,11 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"testing:xblock": {
+		"sound": "stone",
+		"textures": "testing_xblock"
+	}
+}
